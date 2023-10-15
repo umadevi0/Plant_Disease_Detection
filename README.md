@@ -10,9 +10,8 @@ Plant disease detection is a critical task in agriculture as it helps in early d
 **Requirements**
 
 Python 3.x
-
 TensorFlow (or any deep learning framework)
-
 Required Python packages (NumPy, Matplotlib, etc.)
+
 
 
